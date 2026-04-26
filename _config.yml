@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jasmine Miller
-email: jasmill@unc.edu
-description: Jasmine Millers coding journey throughout college at UNC Chapel Hill and beyond
-baseurl: "comp110" # the subpath of your site, e.g. /blog
-url: "jasmill9.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jasmill9
+title: Diego Ponce Gamez
+email: diego23@unc.edu
+description: Diego Ponce Gamez'scoding journey throughout college at UNC Chapel Hill and beyond
+baseurl: "/Exercise09" # the subpath of your site, e.g. /blog
+url: "gamez3601.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  gamez3601
 
 # Build settings
 # Build settings
